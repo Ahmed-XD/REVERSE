@@ -1,4 +1,4 @@
-"""__author__ = "Ahmed" 
+"""__script_writer__ = "Ahmed" 
 __copyright__ = "Copyright (C) 2004" 
 __license__ = "Free for all" 
 __version__ = "1.0"
