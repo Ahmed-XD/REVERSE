@@ -17,7 +17,7 @@ def main():
     usr_input = int(input('How many useragents you want to genarate : '))
     usr_input2 = input('You want to see useragents on screen? y/n : ')
     for x in range(usr_input):
-        agent = str(ua())
+        agent = ua()
         if 'y' in usr_input2:
             print(agent)
         else:pass
