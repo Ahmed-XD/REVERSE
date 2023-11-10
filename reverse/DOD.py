@@ -1,3 +1,7 @@
+"""
+//DECOMPILED BY AHMED XD
+@@FACEBOOK : AHMED.XD.7732
+"""
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 import os
 import os
