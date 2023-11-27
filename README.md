@@ -19,7 +19,8 @@ This repository contains encrypted files that can be decrypted through reverse e
 
 ## Contributor
 
-Main Author : Ahmed-XD
+1 . Main Author : Ahmed-XD ( Github : [Ahmed-XD](https://github.com/Ahmed-XD) )
+2. Raj ( Github : [MIVI404cyber](https://github.com/MIVI404cyber) )
 
 ## Contribution
 
