@@ -1,5 +1,10 @@
 # REVERSE 
 
+## Repository Details
+![GitHub stars](https://img.shields.io/github/stars/Ahmed-XD/REVERSE?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ahmed-XD/REVERSE?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Ahmed-XD/REVERSE?style=social)
+
 ## Overview
 
 This repository contains encrypted files that can be decrypted through reverse engineering techniques.
