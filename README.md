@@ -11,11 +11,12 @@ This repository contains encrypted files that can be decrypted through reverse e
     git clone https://github.com/Ahmed-XD/REVERSE
     ```
 
-## Contribution
+## Contributor
 
 Main Author : Ahmed-XD
 
 ## Contribution
 
 Contributions are welcome! If you have improvements or suggestions, feel free to create issues or pull requests.
+Contributors must add they're signature in the top of the decrypted files.
 
