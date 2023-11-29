@@ -1,6 +1,7 @@
-# REVERSE 
+<h2 align="center"><b>REVERSE</b></h2>
 
-## Repository Details
+
+### Repository Details
 ![GitHub stars](https://img.shields.io/github/stars/Ahmed-XD/REVERSE?style=social)
 
 ![GitHub forks](https://img.shields.io/github/forks/Ahmed-XD/REVERSE?style=social)
@@ -26,8 +27,10 @@ This repository contains encrypted files that can be decrypted through reverse e
 
 2 . Raj ( Github : [MIVI404cyber](https://github.com/MIVI404cyber) )
 
+3 . **Exotic-Hridoy**  with : [reverse.inx](https://www.facebook.com/reverse-inx)
 ## Contribution
 
 Contributions are welcome! If you have improvements or suggestions, feel free to create issues or pull requests.
 Contributors must add they're signature in the top of the decrypted files.
 
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=Ahmed-XD alt=Ahmed-XD /> </p>
