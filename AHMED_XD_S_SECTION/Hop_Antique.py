@@ -1,4 +1,4 @@
-""" --- @reverse_exec  --- """
+""" @reverse_exec """
 
 import tempfile
 import sys
