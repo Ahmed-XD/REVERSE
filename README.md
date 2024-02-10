@@ -13,7 +13,7 @@ This repository contains encrypted files that can be decrypted through reverse e
 ### Getting Started
 
 1. Clone this repository.
-    ```bash
+    ```python
     git clone https://github.com/Ahmed-XD/REVERSE
     ```
     
