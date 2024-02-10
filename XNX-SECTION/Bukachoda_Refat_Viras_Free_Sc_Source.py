@@ -1,4 +1,4 @@
-""" @ Source By Team XNX """
+""" @ Source With --(Team XNX)-- """
 
 import os,zlib,time,random,uuid,subprocess,sys,json,base64,platform,string,marshal,re
 from concurrent.futures import ThreadPoolExecutor as refatshahriar
