@@ -26,7 +26,7 @@ Contributors must add they're signature in the top of the decrypted files.**
 
 * Main Author : [Ahmed Ali](https://github.com/Ahmed-XD)
 * Muhammad Raj : [MIVI404cyber](https://github.com/MIVI404cyber)
-* Exotic Hridoy : [exotic-inx](github.com/exotic-inx)
+* Exotic Hridoy : [exotic-inx](https://github.com/exotic-inx)
 
 > [!NOTE]  
 > ****All code included in this repository is subject to copyright protection. Users are reminded to respect the intellectual property rights of the original authors and to obtain proper authorization before using or redistributing any code for commercial or non-commercial purposes.****
