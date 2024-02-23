@@ -1,4 +1,4 @@
-""" Source with ---( TEAM XNX ) --- """
+""" source with ---( TEAM XNX ) --- """
 #--------------WRITTEN BY MR-NIX--------------#
 import os
 from os import system as clr
