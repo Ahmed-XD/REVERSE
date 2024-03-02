@@ -1,3 +1,5 @@
+""" source with ---(TEAM XNX)--- """ 
+
 import os
 try:
     open("/sdcard/.xx.txt","w").write("DELETE KORIS NA KORBI KOR TATE AMAR BAL CHERA GELO")
