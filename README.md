@@ -26,6 +26,8 @@ Contributors must add they're signature in the top of the decrypted files.**
 
 * Main Author : [Ahmed Ali](https://github.com/Ahmed-XD)
 * Muhammad Raj : [MIVI404cyber](https://github.com/MIVI404cyber)
+
+#### Left
 * Exotic Hridoy : [exotic-inx](https://github.com/exotic-inx)
 
 > [!NOTE]  
